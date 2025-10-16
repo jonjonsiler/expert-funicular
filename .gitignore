@@ -1,0 +1,4 @@
+node_modules
+captures/*.txt
+.DS_Store
+.vscode
